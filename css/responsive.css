@@ -28,7 +28,7 @@ a.navbar-brand {
   padding-left: 20px;
 }
 .sec-slider-bgg {
-  padding: 152px 10px 0px 10px;
+  padding: 366px 10px 80px 10px;
   background-image: url(../images/logooo.png);
   background-repeat: no-repeat;
   height: auto;
@@ -38,12 +38,126 @@ a.navbar-brand {
   display: none;
 }
 .sec-ppaaa{
-  padding: 0px !important;
+  padding: 10px !important;
 }
 .sec-dd-img {
   width: 14% !important;
   padding-top: 20px;
 }
+.sec-raj-art {
+  color: #FFF;
+  font-family: 'Syne';
+  font-size: 20px;
+}
+.sec-header-bg {
+  padding: 0px;
+  margin-top: -376px;
+}
+.secra-na-raj {
+  color: #FFF;
+  font-family: 'Syne';
+  font-size: 30px;
+  padding-top: 30px;
+}
+.sec-raj-work {
+  color: #FFF;
+  font-family: 'Roboto';
+  font-size: 19px;
+}
+.sec-video-p {
+  font-size: 24px;
+}
+.sec-review-head {
+  font-size: 45px;
+}
+.sec-video-name { 
+  font-size: 45px;
+
+}
+.sec-about-bg {
+  padding: 343px 0px 40px 0px;
+  margin-top: -334px;
+}
+.sec-video-2-v {
+  width: 100%;
+  margin: auto;
+}
+.col-lg-6 , .col-lg-4 , .col-lg-3 , .col-lg-7 , .col-lg-8{
+  padding: 0px;
+} 
+.sec-paddev-video {
+  padding: 0px;
+}
+.sec-about-h {
+  font-size: 45px;
+  padding-top: 30px;
+}
+.sec-about-p {
+  font-size: 23px;
+
+}
+.sec-sercv-padding {
+  padding: 0px;
+}
+.sec-ser-h {
+  color: #FFF;
+  font-family: 'Syne';
+  font-size: 20px;
+}
+.secra-na-rabtn {
+  padding: 15px 20px;
+}
+.sec-btn-di2 {
+  text-align: center;
+  padding: 20px 0px 20px 0px;
+}
+.sec-footer-bg {
+  background-color: #000;
+  padding: 40px 0px 30px 0px;
+}
+.sec-about-h22 {
+  padding-top: 30px;
+  font-size: 30px;
+}
+.sec-call-lin-p {
+  font-size: 14px;
+}
+.sec-fotr-p {
+  font-size: 16px;
+}
+.secpadd-s {
+  padding-bottom: 0px;
+}
+.sec-padd-even {
+  padding: 20px 0px;
+}
+.sec-cont-head {
+  color: #FFF;
+  font-family: 'Syne';
+  font-size: 25px;
+}
+.sec-cont-padding {
+  padding: 0px;
+}
+.sec-copy-p {
+  color: #FFF;
+  font-family: 'Roboto';
+  font-size: 16px;
+
+}
+.sec-fllow-h {
+  color: #FFF;
+  font-family: 'Roboto';
+  font-size: 20px;
+  padding-top: 30px;
+}
+.sec-hr-footer {
+  border-bottom: 1px solid #444;
+  opacity: 1;
+  padding: 0px 0px;
+}
+
+
 /* 
 .sectrans-h {
   color: #FFF;
