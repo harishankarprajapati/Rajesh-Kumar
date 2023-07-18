@@ -85,8 +85,11 @@ a.navbar-brand {
   font-size: 45px;
 }
 .sec-video-name { 
-  font-size: 25px;
+  font-size: 35px;
 
+}
+.sec-space-left-right.sec-ppaaa iframe {
+  margin-bottom: 40px;
 }
 .sec-about-bg {
   padding: 343px 0px 40px 0px;
