@@ -27,12 +27,22 @@ a.navbar-brand {
   flex-grow: 1;
   padding-left: 20px;
 }
-.sec-slider-bgg {
+.sec-slider-bgg , .sec-slider-bgg2 , .sec-slider-bgg3 {
   padding: 366px 10px 80px 10px;
-  background-image: url(../images/logooo.png);
+  
   background-repeat: no-repeat;
   height: auto;
   background-size: cover;
+}
+.sec-header-bg {
+  padding: 0px;
+  margin-top: 0px;
+}
+.sec-slider-bgg2 , .sec-slider-bgg , .sec-slider-bgg3{
+  background-image: none !important;
+}
+.sec-lider-imag-n{
+  display: block !important;
 }
 .sec-all-bgg::before{
   display: none;

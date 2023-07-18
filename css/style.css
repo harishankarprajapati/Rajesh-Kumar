@@ -83,12 +83,30 @@ a.nav-link.sec-li-small2 {
     display: none;
 }
 
+
 .sec-slider-bgg {
     background-image: url(../images/Banner-Slider.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 1000px;
     padding: 212px 50px 123px 50px;
+}
+.sec-slider-bgg2 {
+    background-image: url(../images/Banner-Slider2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    padding: 212px 50px 123px 50px;
+}
+.sec-slider-bgg3 {
+    background-image: url(../images/Banner-Slider3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    padding: 212px 50px 123px 50px;
+}
+.sec-lider-imag-n{
+    display: none;
 }
 
 .sec-raj-name {
