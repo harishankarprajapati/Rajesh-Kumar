@@ -181,7 +181,12 @@ img.sec-logo-footer {
   opacity: 1;
   padding: 0px 0px;
 }
-
+.sec-mang-name {
+  color: #FFF;
+  font-family: 'Syne';
+  font-size: 30px;
+  padding-top: 50px;
+}
 } 
 
 
