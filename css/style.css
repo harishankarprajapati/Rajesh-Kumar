@@ -695,3 +695,6 @@ padding-top: 30px;
 .sec-brad-im img{
     padding: 20px 0px;
 }
+.row.m-0.sec-brad-im {
+    padding-bottom: 20px;
+}
