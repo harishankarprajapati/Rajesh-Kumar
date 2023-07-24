@@ -32,12 +32,12 @@ img.sec-logo-footer {
 }
 .sec-slider-bgg{
   background-image:url(../images/b-s-m-1.png);
-  padding: 366px 10px 80px 10px !important;
+  padding: 0px 10px 00px 10px !important;
   background-repeat: no-repeat;
   height: auto;
   background-size: cover;
 }
- .sec-slider-bgg2 , .sec-slider-bgg3 {
+ .sec-slider-bgg2 , .sec-slider-bgg3 , .sec-slider-bgg4 {
   padding: 50px 10px 80px 10px;
   background-repeat: no-repeat;
   height: auto;
@@ -47,7 +47,7 @@ img.sec-logo-footer {
   padding: 0px;
   margin-top: 0px;
 }
-.sec-slider-bgg2 , .sec-slider-bgg3{
+.sec-slider-bgg2 , .sec-slider-bgg3 , .sec-slider-bgg4{
   background-image: none !important;
 }
 .sec-lider-imag-n{
@@ -199,6 +199,25 @@ img.sec-logo-footer {
 .sec-poli-p {
   padding-top: 13px;
   padding-left: 0px;
+}
+.sec-boss {
+  color: #FFF;
+  font-family: 'Syne';
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  display: block;
+}
+.sec-boss2{
+  display: none !important;
+}
+.sec-slider-bgg{
+  background-image: none !important;
+}
+img.sec-video-img {
+  width: 100%;
 }
 } 
 

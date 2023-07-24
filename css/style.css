@@ -105,6 +105,13 @@ a.nav-link.sec-li-small2 {
     height: 1000px;
     padding: 212px 50px 123px 50px;
 }
+.sec-slider-bgg4 {
+    background-image: url(../images/Banner-Slider4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    padding: 212px 50px 123px 50px;
+}
 .sec-lider-imag-n{
     display: none;
 }
@@ -671,4 +678,20 @@ a.nav-link.sec-li-small2 {
     font-style: normal;
     font-weight: 400;
     line-height: 172.852%;
+}
+
+.sec-boss{
+    display: none;
+}
+
+.sec-brad-padding{
+    padding: 80px 0px;
+    position: relative;
+    z-index: 9999;
+}
+.sec-brad-padding .owl-carousel{
+padding-top: 30px;
+}
+.sec-brad-im img{
+    padding: 20px 0px;
 }
